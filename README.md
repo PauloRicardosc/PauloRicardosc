@@ -25,7 +25,8 @@
 <br>
 <br>
 <h2>Encontre-me</h2>
-<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white <a href=https://www.linkedin.com/in/paulo-ricardo-silva-cruz-296890160/></a>
+<a href=https://www.linkedin.com/in/paulo-ricardo-silva-cruz-296890160/><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+</a>
 
 
 
